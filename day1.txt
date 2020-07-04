@@ -1,0 +1,103 @@
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~
+$ pwd
+/c/Users/Hp
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~
+$ ls
+'3D Objects'/         Desktop/                 Midterm.class                  ntuser.dat.LOG1                                                                                PrintHood@      'Start Menu'@
+ AppData/             Documents/               Music/                         ntuser.dat.LOG2                                                                                privatekey.ppk   Sub.class
+'Application Data'@   Downloads/              'My Documents'@                 NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf                                        publickey        suhaas.java
+ CC.java              Favorites/              'my first unity project'/       NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms   Recent@          Super.class
+ Contacts/            Intel/                   NetHood@                       NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms  'Saved Games'/    Templates@
+ Cookies@             IntelGraphicsProfiles/  'New Unity Project coursera'/   ntuser.ini                                                                                     Searches/        Videos/
+ DemoSuper.class      Links/                  'New Unity Project crsera'/     OneDrive/                                                                                      SendTo@
+ DemoSuper.java      'Local Settings'@         NTUSER.DAT                     Pictures/                                                                                      source/
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~
+$ cd source
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ pwd
+/c/Users/Hp/source
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ ls
+repos/  WebSites/
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ ls -l
+total 0
+drwxr-xr-x 1 Hp 197121 0 Aug 19  2017 repos/
+drwxr-xr-x 1 Hp 197121 0 Aug 19  2017 WebSites/
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ touch mru.txt
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ ls
+mru.txt  repos/  WebSites/
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ cd ..
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~
+$ pwd
+/c/Users/Hp
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~
+$ cd ..
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ pwd
+/c/Users
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ cd ..
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c
+$ pwd
+/c
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c
+$ cd ~
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~
+$ pwd
+/c/Users/Hp
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~
+$ cd source
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ pwd
+/c/Users/Hp/source
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ ls
+mru.txt  repos/  WebSites/
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ cd mru.txt
+bash: cd: mru.txt: Not a directory
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source
+$ cd websites
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source/websites
+$ pwd
+/c/Users/Hp/source/websites
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source/websites
+$ ls
+WebSite1/  WebSite2/  WebSite3/
+
+Hp@DESKTOP-H8F7UTE MINGW64 ~/source/websites
+$ cd ../../../
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$ pwd
+/c/Users
+
+Hp@DESKTOP-H8F7UTE MINGW64 /c/Users
+$
